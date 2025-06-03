@@ -69,7 +69,7 @@ curl -sLo swap.sh https://fastly.jsdelivr.net/gh/Tomzhao1016/swap.sh@main/swap.s
 ### 2. 授予执行权限
 
 ```bash
-chmod +x swap_manager.sh
+chmod +x swap.sh
 ```
 
 ### 3. 运行脚本
@@ -78,7 +78,7 @@ chmod +x swap_manager.sh
 
 如果您不确定如何选择，或者希望在引导下完成操作，请直接运行脚本：
 ```bash
-sudo ./swap_manager.sh
+sudo ./swap.sh
 ```
 脚本将展示一个清晰的菜单，引导您完成创建、删除、配置 Swappiness 或查看 Swap 状态等所有操作。在执行如创建或格式化等关键操作前，会显示本次操作的摘要信息，并要求您进行最终确认。
 
