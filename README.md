@@ -199,4 +199,4 @@ sudo ./swap_manager.sh
 
 ## 👨‍💻 作者 (Author)
 
-**![Cloudream Innovation](https://www.cloudream.top)**
+**[Cloudream Innovation](https://www.cloudream.top)**
